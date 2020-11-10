@@ -1,0 +1,5 @@
+classes = 1
+train = F:\Projects\yolov3\sl-master\data131_frame\train.txt
+valid = F:\Projects\yolov3\sl-master\data131_frame\val.txt
+names = F:\Projects\yolov3\sl-master\config\sldata.names
+backup = backup
